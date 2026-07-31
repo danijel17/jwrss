@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>JW.org Hrvatski - Novo na stranici</title>
+    <link>https://www.jw.org/hr/sto-je-novo/</link>
+    <description>Neslužbeni RSS feed za hrvatsku stranicu JW.org (Novo na stranici)</description>
+    <atom:link href="https://www.jw.org/hr/sto-je-novo/" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>hr</language>
+    <lastBuildDate>Fri, 31 Jul 2026 20:16:32 +0000</lastBuildDate>
+    <item>
+      <title>International Music</title>
+      <link>https://www.jw.org/hr/biblioteka/glazba-pjesme/International-Music/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/biblioteka/glazba-pjesme/International-Music/</guid>
+      <category>GLAZBA</category>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Audioizdanje Biblije: dostupna je Treća Ivanova poslanica</title>
+      <link>https://www.jw.org/hr/sto-je-novo/besplatno-audioizdanje-biblije-3-ivanova/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/sto-je-novo/besplatno-audioizdanje-biblije-3-ivanova/</guid>
+      <category>NOVO NA STRANICI</category>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Audioizdanje Biblije: dostupna je Druga Ivanova poslanica</title>
+      <link>https://www.jw.org/hr/sto-je-novo/besplatno-audioizdanje-biblije-2-ivanova/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/sto-je-novo/besplatno-audioizdanje-biblije-2-ivanova/</guid>
+      <category>NOVO NA STRANICI</category>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sposobnost staklene žabe da spriječi zgrušavanje krvi | Djelo prirode ili inteligentnog tvorca?</title>
+      <link>https://www.jw.org/hr/biblijska-ucenja/znanost/djelo-prirode-ili-inteligentnog-tvorca/staklena-zaba-zgrusavanje-krvi/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/biblijska-ucenja/znanost/djelo-prirode-ili-inteligentnog-tvorca/staklena-zaba-zgrusavanje-krvi/</guid>
+      <category>DJELO PRIRODE ILI INTELIGENTNOG TVORCA?</category>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Novi spomenik u Berlinu odaje počast Jehovinim svjedocima koji su pokazali hrabrost tijekom nacizma</title>
+      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/njemacka/Novi-spomenik-u-Berlinu-odaje-po%C4%8Dast-Jehovinim-svjedocima-koji-su-pokazali-hrabrost-tijekom-nacizma/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/njemacka/Novi-spomenik-u-Berlinu-odaje-po%C4%8Dast-Jehovinim-svjedocima-koji-su-pokazali-hrabrost-tijekom-nacizma/</guid>
+      <category>PRIOPĆENJA</category>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Nije dovoljno da se oslanjam na vlastitu snagu”</title>
+      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/rusija/Nije-dovoljno-da-se-oslanjam-na-vlastitu-snagu/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/rusija/Nije-dovoljno-da-se-oslanjam-na-vlastitu-snagu/</guid>
+      <category>PRIOPĆENJA</category>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Josette Garcia: Desetljećima sam propovijedala u jednoj od najtoplijih zemalja svijeta</title>
+      <link>https://www.jw.org/hr/biblioteka/serije/zivotne-price-jehovinih-svjedoka/Josette-Garcia-Desetlje%C4%87ima-sam-propovijedala-u-jednoj-od-najtoplijih-zemalja-svijeta/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/biblioteka/serije/zivotne-price-jehovinih-svjedoka/Josette-Garcia-Desetlje%C4%87ima-sam-propovijedala-u-jednoj-od-najtoplijih-zemalja-svijeta/</guid>
+      <category>ŽIVOTNE PRIČE</category>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NAJNOVIJA VIJEST: BRAĆA OSUĐENA | Najveća im je čast služiti Jehovi</title>
+      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/rusija/NAJNOVIJA-VIJEST-BRA%C4%86A-OSU%C4%90ENA-Najve%C4%87a-im-je-%C4%8Dast-slu%C5%BEiti-Jehovi/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/rusija/NAJNOVIJA-VIJEST-BRA%C4%86A-OSU%C4%90ENA-Najve%C4%87a-im-je-%C4%8Dast-slu%C5%BEiti-Jehovi/</guid>
+      <category>PRIOPĆENJA</category>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kako Biblija može pomoći žrtvama zločina</title>
+      <link>https://www.jw.org/hr/biblioteka/serije/razno/biblija-pomaze-zrtvama-zlocina/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/biblioteka/serije/razno/biblija-pomaze-zrtvama-zlocina/</guid>
+      <category>RAZNO</category>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kijev pretrpio jedan od najžešćih napada otkad je započeo rat</title>
+      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/ukrajina/Kijev-pretrpio-jedan-od-naj%C5%BEe%C5%A1%C4%87ih-napada-otkad-je-zapo%C4%8Deo-rat/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/ukrajina/Kijev-pretrpio-jedan-od-naj%C5%BEe%C5%A1%C4%87ih-napada-otkad-je-zapo%C4%8Deo-rat/</guid>
+      <category>PRIOPĆENJA</category>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tisuće Jehovinih svjedoka sudjelovalo u posebnoj propovjedničkoj akciji u dva najveća južnokorejska grada</title>
+      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/juzna-koreja/Tisu%C4%87e-Jehovinih-svjedoka-sudjelovalo-u-posebnoj-propovjedni%C4%8Dkoj-akciji-u-dva-najve%C4%87a-ju%C5%BEnokorejska-grada/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/juzna-koreja/Tisu%C4%87e-Jehovinih-svjedoka-sudjelovalo-u-posebnoj-propovjedni%C4%8Dkoj-akciji-u-dva-najve%C4%87a-ju%C5%BEnokorejska-grada/</guid>
+      <category>PRIOPĆENJA</category>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>listopad 2026.</title>
+      <link>https://www.jw.org/hr/biblioteka/casopisi/strazarska-kula-listopad-2026/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/biblioteka/casopisi/strazarska-kula-listopad-2026/</guid>
+      <category>STRAŽARSKA KULA (IZDANJE ZA PROUČAVANJE)</category>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NAJNOVIJA VIJEST: Dva razorna potresa pogodila Venezuelu</title>
+      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/venezuela/NAJNOVIJA-VIJEST-Dva-razorna-potresa-pogodila-Venezuelu/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/venezuela/NAJNOVIJA-VIJEST-Dva-razorna-potresa-pogodila-Venezuelu/</guid>
+      <category>PRIOPĆENJA</category>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Ne boj se”</title>
+      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/rusija/Ne-boj-se/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/rusija/Ne-boj-se/</guid>
+      <category>PRIOPĆENJA</category>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jehovini svjedoci kupili zemljište blizu glavnog sjedišta u Warwicku</title>
+      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/sjedinjene-americke-drzave/Jehovini-svjedoci-kupili-zemlji%C5%A1te-blizu-glavnog-sjedi%C5%A1ta-u-Warwicku/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/sjedinjene-americke-drzave/Jehovini-svjedoci-kupili-zemlji%C5%A1te-blizu-glavnog-sjedi%C5%A1ta-u-Warwicku/</guid>
+      <category>PRIOPĆENJA</category>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“U borbi protiv obeshrabrenja najviše mi pomaže molitva”</title>
+      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/rusija/U-borbi-protiv-obeshrabrenja-najvi%C5%A1e-mi-poma%C5%BEe-molitva/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/rusija/U-borbi-protiv-obeshrabrenja-najvi%C5%A1e-mi-poma%C5%BEe-molitva/</guid>
+      <category>PRIOPĆENJA</category>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Volim Jehovu više nego ikad prije”</title>
+      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/rusija/Volim-Jehovu-vi%C5%A1e-nego-ikad-prije/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/rusija/Volim-Jehovu-vi%C5%A1e-nego-ikad-prije/</guid>
+      <category>PRIOPĆENJA</category>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Svečano otvorenje biblijskog obrazovnog centra i 15 kongresnih dvorana u Malaviju</title>
+      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/malavi/Sve%C4%8Dano-otvorenje-biblijskog-obrazovnog-centra-i-15-kongresnih-dvorana-u-Malaviju/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/malavi/Sve%C4%8Dano-otvorenje-biblijskog-obrazovnog-centra-i-15-kongresnih-dvorana-u-Malaviju/</guid>
+      <category>PRIOPĆENJA</category>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zajedno smo jaki</title>
+      <link>https://www.jw.org/hr/biblioteka/glazba-pjesme/pjesme/Zajedno-smo-jaki/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/biblioteka/glazba-pjesme/pjesme/Zajedno-smo-jaki/</guid>
+      <category>PJESME</category>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrajina zatvorila još pet Jehovinih svjedoka koji su zbog prigovora savjesti odbili ići u vojsku</title>
+      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/ukrajina/Ukrajina-zatvorila-jo%C5%A1-pet-Jehovinih-svjedoka-koji-su-zbog-prigovora-savjesti-odbili-i%C4%87i-u-vojsku/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/ukrajina/Ukrajina-zatvorila-jo%C5%A1-pet-Jehovinih-svjedoka-koji-su-zbog-prigovora-savjesti-odbili-i%C4%87i-u-vojsku/</guid>
+      <category>PRIOPĆENJA</category>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U lipnju 2026. objavljene biblijske knjige na devet jezika</title>
+      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/iz-svijeta/U-lipnju-2026-objavljene-biblijske-knjige-na-devet-jezika/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/iz-svijeta/U-lipnju-2026-objavljene-biblijske-knjige-na-devet-jezika/</guid>
+      <category>PRIOPĆENJA</category>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Savezni vrhovni sud Njemačke presudio u korist Jehovinih svjedoka u slučaju Kusserow</title>
+      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/njemacka/Savezni-vrhovni-sud-Njema%C4%8Dke-presudio-u-korist-Jehovinih-svjedoka-u-slu%C4%8Daju-Kusserow/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/njemacka/Savezni-vrhovni-sud-Njema%C4%8Dke-presudio-u-korist-Jehovinih-svjedoka-u-slu%C4%8Daju-Kusserow/</guid>
+      <category>PRIOPĆENJA</category>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>”Jehova ima povjerenja u mene”</title>
+      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/rusija/Jehova-ima-povjerenja-u-mene/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/rusija/Jehova-ima-povjerenja-u-mene/</guid>
+      <category>PRIOPĆENJA</category>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
