@@ -23,8 +23,8 @@ Rezultat: datoteka `jw_hr.xml` u istom direktoriju.
 
 ## Automatsko osvježavanje (GitHub Actions)
 
-U repozitoriju se nalazi workflow `.github/workflows/rss.yml` koji svakih 30
-minuta pokreće skriptu i commita ažurirani `jw_hr.xml`. Možeš ga pokrenuti i
+U repozitoriju se nalazi workflow `.github/workflows/rss.yml` koji svaki sat
+pokreće skriptu i commita ažurirani `jw_hr.xml`. Možeš ga pokrenuti i
 ručno preko kartice **Actions → Generate JW.org HR RSS → Run workflow**.
 
 Feed je tada dostupan na „raw” URL-u, npr.:
