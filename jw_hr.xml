@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>hr</language>
-    <lastBuildDate>Tue, 04 Aug 2026 00:14:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 04:13:28 +0000</lastBuildDate>
     <item>
-      <title>International Music</title>
-      <link>https://www.jw.org/hr/biblioteka/glazba-pjesme/International-Music/</link>
-      <guid isPermaLink="true">https://www.jw.org/hr/biblioteka/glazba-pjesme/International-Music/</guid>
+      <title>Glazba iz cijelog svijeta</title>
+      <link>https://www.jw.org/hr/biblioteka/glazba-pjesme/Glazba-iz-cijelog-svijeta/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/biblioteka/glazba-pjesme/Glazba-iz-cijelog-svijeta/</guid>
       <category>GLAZBA</category>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
@@ -148,27 +148,6 @@
       <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/ukrajina/Ukrajina-zatvorila-jo%C5%A1-pet-Jehovinih-svjedoka-koji-su-zbog-prigovora-savjesti-odbili-i%C4%87i-u-vojsku/</guid>
       <category>PRIOPĆENJA</category>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U lipnju 2026. objavljene biblijske knjige na devet jezika</title>
-      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/iz-svijeta/U-lipnju-2026-objavljene-biblijske-knjige-na-devet-jezika/</link>
-      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/iz-svijeta/U-lipnju-2026-objavljene-biblijske-knjige-na-devet-jezika/</guid>
-      <category>PRIOPĆENJA</category>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Savezni vrhovni sud Njemačke presudio u korist Jehovinih svjedoka u slučaju Kusserow</title>
-      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/njemacka/Savezni-vrhovni-sud-Njema%C4%8Dke-presudio-u-korist-Jehovinih-svjedoka-u-slu%C4%8Daju-Kusserow/</link>
-      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/njemacka/Savezni-vrhovni-sud-Njema%C4%8Dke-presudio-u-korist-Jehovinih-svjedoka-u-slu%C4%8Daju-Kusserow/</guid>
-      <category>PRIOPĆENJA</category>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>”Jehova ima povjerenja u mene”</title>
-      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/rusija/Jehova-ima-povjerenja-u-mene/</link>
-      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/rusija/Jehova-ima-povjerenja-u-mene/</guid>
-      <category>PRIOPĆENJA</category>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
