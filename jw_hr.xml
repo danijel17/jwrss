@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>hr</language>
-    <lastBuildDate>Wed, 05 Aug 2026 19:28:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 21:07:09 +0000</lastBuildDate>
+    <item>
+      <title>Audioizdanje Biblije – dostupna je Knjiga Izlaska</title>
+      <link>https://www.jw.org/hr/sto-je-novo/Audioizdanje-Biblije-dostupna-je-Knjiga-Izlaska/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/sto-je-novo/Audioizdanje-Biblije-dostupna-je-Knjiga-Izlaska/</guid>
+      <category>NOVO NA STRANICI</category>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Vredniji od vrabaca</title>
       <link>https://www.jw.org/hr/biblioteka/glazba-pjesme/pjesme/Vredniji-od-vrabaca/</link>
@@ -162,13 +169,6 @@
       <guid isPermaLink="true">https://www.jw.org/hr/biblioteka/glazba-pjesme/pjesme/Zajedno-smo-jaki/</guid>
       <category>PJESME</category>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukrajina zatvorila još pet Jehovinih svjedoka koji su zbog prigovora savjesti odbili ići u vojsku</title>
-      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/ukrajina/Ukrajina-zatvorila-jo%C5%A1-pet-Jehovinih-svjedoka-koji-su-zbog-prigovora-savjesti-odbili-i%C4%87i-u-vojsku/</link>
-      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/ukrajina/Ukrajina-zatvorila-jo%C5%A1-pet-Jehovinih-svjedoka-koji-su-zbog-prigovora-savjesti-odbili-i%C4%87i-u-vojsku/</guid>
-      <category>PRIOPĆENJA</category>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
