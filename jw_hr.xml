@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>hr</language>
-    <lastBuildDate>Thu, 06 Aug 2026 15:13:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:57:49 +0000</lastBuildDate>
+    <item>
+      <title>Kako se boriti protiv usamljenosti</title>
+      <link>https://www.jw.org/hr/biblioteka/casopisi/probudite-se-br1-2026/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/biblioteka/casopisi/probudite-se-br1-2026/</guid>
+      <category>PROBUDITE SE!</category>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Audioizdanje Biblije – dostupna je Knjiga Izlaska</title>
       <link>https://www.jw.org/hr/sto-je-novo/Audioizdanje-Biblije-dostupna-je-Knjiga-Izlaska/</link>
@@ -162,13 +169,6 @@
       <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/malavi/Sve%C4%8Dano-otvorenje-biblijskog-obrazovnog-centra-i-15-kongresnih-dvorana-u-Malaviju/</guid>
       <category>PRIOPĆENJA</category>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zajedno smo jaki</title>
-      <link>https://www.jw.org/hr/biblioteka/glazba-pjesme/pjesme/Zajedno-smo-jaki/</link>
-      <guid isPermaLink="true">https://www.jw.org/hr/biblioteka/glazba-pjesme/pjesme/Zajedno-smo-jaki/</guid>
-      <category>PJESME</category>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
