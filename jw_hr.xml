@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>hr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 18:37:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:30:00 +0000</lastBuildDate>
+    <item>
+      <title>Razoran potres u Kolumbiji</title>
+      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/kolumbija/Razoran-potres-u-Kolumbiji/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/kolumbija/Razoran-potres-u-Kolumbiji/</guid>
+      <category>PRIOPĆENJA</category>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>NAJNOVIJA VIJEST: BRAĆA ZATVORENA NAKON ŽALBE | “Uvjeren sam da me Jehova jako voli”</title>
       <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/rusija/NAJNOVIJA-VIJEST-BRA%C4%86A-ZATVORENA-NAKON-%C5%BDALBE-Uvjeren-sam-da-me-Jehova-jako-voli/</link>
@@ -148,20 +155,6 @@
       <guid isPermaLink="true">https://www.jw.org/hr/biblijska-ucenja/znanost/djelo-prirode-ili-inteligentnog-tvorca/staklena-zaba-zgrusavanje-krvi/</guid>
       <category>DJELO PRIRODE ILI INTELIGENTNOG TVORCA?</category>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Novi spomenik u Berlinu odaje počast Jehovinim svjedocima koji su pokazali hrabrost tijekom nacizma</title>
-      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/njemacka/Novi-spomenik-u-Berlinu-odaje-po%C4%8Dast-Jehovinim-svjedocima-koji-su-pokazali-hrabrost-tijekom-nacizma/</link>
-      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/njemacka/Novi-spomenik-u-Berlinu-odaje-po%C4%8Dast-Jehovinim-svjedocima-koji-su-pokazali-hrabrost-tijekom-nacizma/</guid>
-      <category>PRIOPĆENJA</category>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Nije dovoljno da se oslanjam na vlastitu snagu”</title>
-      <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/rusija/Nije-dovoljno-da-se-oslanjam-na-vlastitu-snagu/</link>
-      <guid isPermaLink="true">https://www.jw.org/hr/vijesti/iz-raznih-zemalja/rusija/Nije-dovoljno-da-se-oslanjam-na-vlastitu-snagu/</guid>
-      <category>PRIOPĆENJA</category>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
