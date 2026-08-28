@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>hr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 16:06:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 01:16:20 +0000</lastBuildDate>
+    <item>
+      <title>Primaju li Jehovini svjedoci plaću za svoje vjerske aktivnosti?</title>
+      <link>https://www.jw.org/hr/jehovini-svjedoci/najcesca-pitanja/primaju-li-jehovini-svjedoci-placu-za-svoje-vjerske-aktivnosti/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/jehovini-svjedoci/najcesca-pitanja/primaju-li-jehovini-svjedoci-placu-za-svoje-vjerske-aktivnosti/</guid>
+      <category>NAJČEŠĆA PITANJA</category>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Audioizdanje Biblije: dostupna je poslanica Efežanima</title>
+      <link>https://www.jw.org/hr/sto-je-novo/besplatno-audioizdanje-biblije-efe%C5%BEanima/</link>
+      <guid isPermaLink="true">https://www.jw.org/hr/sto-je-novo/besplatno-audioizdanje-biblije-efe%C5%BEanima/</guid>
+      <category>NOVO NA STRANICI</category>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Tijekom sedmodnevne propovjedničke akcije u Kolumbiji više od 8200 ljudi zatražilo biblijski tečaj</title>
       <link>https://www.jw.org/hr/vijesti/iz-raznih-zemalja/kolumbija/Tijekom-sedmodnevne-propovjedni%C4%8Dke-akcije-u-Kolumbiji-vi%C5%A1e-od-8200-ljudi-zatra%C5%BEilo-biblijski-te%C4%8Daj/</link>
@@ -162,20 +176,6 @@
       <guid isPermaLink="true">https://www.jw.org/hr/biblioteka/glazba-pjesme/Glazba-iz-cijelog-svijeta/</guid>
       <category>GLAZBA</category>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Audioizdanje Biblije: dostupna je Treća Ivanova poslanica</title>
-      <link>https://www.jw.org/hr/sto-je-novo/besplatno-audioizdanje-biblije-3-ivanova/</link>
-      <guid isPermaLink="true">https://www.jw.org/hr/sto-je-novo/besplatno-audioizdanje-biblije-3-ivanova/</guid>
-      <category>NOVO NA STRANICI</category>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Audioizdanje Biblije: dostupna je Druga Ivanova poslanica</title>
-      <link>https://www.jw.org/hr/sto-je-novo/besplatno-audioizdanje-biblije-2-ivanova/</link>
-      <guid isPermaLink="true">https://www.jw.org/hr/sto-je-novo/besplatno-audioizdanje-biblije-2-ivanova/</guid>
-      <category>NOVO NA STRANICI</category>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
