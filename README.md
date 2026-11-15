@@ -1,49 +1,53 @@
 # jwrss
 
-Neslužbeni RSS generator za hrvatsku stranicu JW.org **„Novo na stranici”**
-(<https://www.jw.org/hr/sto-je-novo/>).
+> **⚠️ Zastarjelo / Deprecated.** Koristi **službeni RSS feed** JW.org-a (vidi
+> dolje). Ovaj scraper više nije potreban i nije u aktivnoj upotrebi.
 
-Skripta dohvaća stranicu, čita popis stavki iz `div.whatsNewItems` (svaka stavka
-sadrži datum objave, kategoriju, naslov i poveznicu) te generira RSS 2.0 datoteku
-`jw_hr.xml` sa stavkama poredanima od najnovije prema najstarijoj.
+## ✅ Preporučeno: službeni JW.org RSS feed
 
-## Instalacija
+JW.org objavljuje vlastiti službeni RSS feed za „Novo na stranici” — uključuje
+kategoriju, naslov, poveznicu, datum objave i sličicu. Održava ga JW.org, uvijek
+je ažuran i dostupan je i s „cloud” IP adresa (RSS čitači ga normalno dohvaćaju).
+
+**Hrvatski:**
+
+```
+https://www.jw.org/hr/sto-je-novo/rss/WhatsNewWebArticles/feed.xml
+```
+
+**Engleski:**
+
+```
+https://www.jw.org/en/whats-new/rss/WhatsNewWebArticles/feed.xml
+```
+
+Zalijepi URL izravno u svoj RSS čitač (npr. Feeder na Androidu). Nije potrebna
+nikakva automatizacija, poslužitelj ni GitHub Actions.
+
+---
+
+## Povijest: neslužbeni scraper (više se ne koristi)
+
+Ranije je ovaj repozitorij sadržavao scraper koji je dohvaćao stranicu
+<https://www.jw.org/hr/sto-je-novo/> i generirao `jw_hr.xml`.
+
+**Zašto je napušten:** JW.org je počeo posluživati **praznu stranicu za
+podatkovne/„cloud” IP adrese** (npr. GitHub Actions runnere), pa je scraper
+pronalazio nula članaka i workflow je padao. Scraping s kućne IP adrese i dalje
+radi, ali se oslanja na nestabilne CSS selektore. Budući da postoji službeni
+feed, scraper je nepotreban.
+
+Zakazani (cron) workflow je onemogućen; `.github/workflows/rss.yml` se može
+pokrenuti još samo ručno (`workflow_dispatch`) za potrebe testiranja.
+
+### Pokretanje scrapera ručno (opcionalno)
 
 ```bash
 pip install -r requirements.txt
+python generate_rss.py   # stvara jw_hr.xml (radi samo s kućne IP adrese)
 ```
-
-## Pokretanje
-
-```bash
-python generate_rss.py
-```
-
-Rezultat: datoteka `jw_hr.xml` u istom direktoriju.
-
-## Automatsko osvježavanje (GitHub Actions)
-
-U repozitoriju se nalazi workflow `.github/workflows/rss.yml` koji svaki sat
-pokreće skriptu i commita ažurirani `jw_hr.xml`. Možeš ga pokrenuti i
-ručno preko kartice **Actions → Generate JW.org HR RSS → Run workflow**.
-
-Feed je tada dostupan na „raw” URL-u, npr.:
-
-```
-https://raw.githubusercontent.com/danijel17/jwrss/main/jw_hr.xml
-```
-
-Taj URL zalijepi u svoj RSS čitač (Feedly, Thunderbird, NetNewsWire itd.).
-
-Interval možeš promijeniti u `cron` izrazu (preporuka: 15–60 minuta).
-
-## Ostale opcije za raspoređivanje
-
-Umjesto GitHub Actionsa možeš koristiti cron (Linux/Raspberry Pi), Windows Task
-Scheduler ili Synology NAS zadatak koji periodički pokreće `python generate_rss.py`.
 
 ## Napomena
 
-Ovo je neslužbeni feed i ni na koji način nije povezan s JW.org. Ako se HTML
-struktura stranice promijeni, možda će trebati prilagoditi CSS selektore u
-`generate_rss.py`.
+Službeni feed održava JW.org. Scraper je bio neslužbeni i ni na koji način nije
+povezan s JW.org.

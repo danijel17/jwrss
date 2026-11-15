@@ -1,9 +1,11 @@
 name: Generate JW.org HR RSS
 
 on:
-  schedule:
-    # Every hour (UTC).
-    - cron: "0 * * * *"
+  # Scheduled cloud runs are disabled: JW.org serves an empty page to
+  # datacenter/cloud IPs (GitHub Actions), so the scraper finds zero items.
+  # This project is deprecated in favour of JW.org's official RSS feed:
+  #   https://www.jw.org/hr/sto-je-novo/rss/WhatsNewWebArticles/feed.xml
+  # Kept for manual/testing use only.
   workflow_dispatch:
 
 permissions:
